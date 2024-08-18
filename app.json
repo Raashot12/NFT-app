@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "nft-app",
+    "slug": "nft-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.nft.app",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ba2ee011-9f99-46d7-8c47-fdf095decb2f"
+      }
+    }
+  }
+}
